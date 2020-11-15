@@ -30,7 +30,7 @@
     "Retromock": ["Android"],
     "rails-infinum-mailgun_catcher": ["Ruby"],
     "secrets_cli": ["Ruby"],
-    "thrifty-retrofit-converter": ["Android"],
+    "thrifty-retrofit-converter": ["Android"]
   },
   "custom": [
   ]
